@@ -1,5 +1,9 @@
-# Assignment01-GitHub-Basics
-Assignment 01
+/*
+Program: Sum of First 50 Natural Numbers
+Name: Aleeha shahid
+Registration Number: l1S26BSCS0164
+Assignment: 01
+*/
 #include <iostream>
 using namespace std;
 
